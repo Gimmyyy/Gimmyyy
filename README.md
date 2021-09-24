@@ -1,6 +1,6 @@
 Hi there, I’m Gianmarco aka Gimmy 👋 
 
-- 💻 Currently programming in HTML - CSS - JS - C#
+- 💻 Currently programming in HTML - CSS - JS - C# - C++
 - 🌱 I’m currently learning PHP - Python
 - 💞️ I’m looking to collaborate on websites project
 - 🖋️ Made in Italy 🇮🇹 
