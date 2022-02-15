@@ -1,4 +1,4 @@
-Hi there, I’m Gianmarco aka Gimmy 👋 
+Hi there, I’m Gimmy aka Laky 👋 
 
 - 💻 Currently programming in HTML - CSS - JS - C# - C++
 - 🌱 I’m currently learning PHP - Python
